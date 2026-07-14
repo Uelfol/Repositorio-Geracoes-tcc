@@ -15,10 +15,12 @@ Os arquivos foram organizados de acordo com a metodologia e as etapas desenvolvi
 
 ## 📖 Como navegar
 
-Cada subpasta contendo arquivos gerados deve conter um arquivo `README.md` que detalha as informações de cada asset, apresentando:
-- O nome do arquivo gerado.
+Cada subpasta e divisão de estudo de caso deste repositório contém o seu próprio arquivo `README.md`. 
+Graças à estrutura do GitHub, ao navegar por qualquer pasta, o `README.md` será aberto automaticamente exibindo um **catálogo completo** das gerações daquela etapa.
+
+Nestes catálogos internos, você encontrará:
+- O nome e o arquivo gerado (com preview da imagem, se aplicável).
 - O modelo de IA utilizado (ex: Midjourney, ChatGPT, Suno, etc.).
 - O prompt exato enviado para a IA.
-- Observações adicionais sobre o resultado.
-
-Um modelo para a criação dessa documentação pode ser encontrado no arquivo `TEMPLATE_README_PASTA.md` na raiz deste repositório.
+- A saída/resultado da IA (para os casos de diálogos ou textos).
+- Observações adicionais sobre cada resultado e escolhas do processo.
