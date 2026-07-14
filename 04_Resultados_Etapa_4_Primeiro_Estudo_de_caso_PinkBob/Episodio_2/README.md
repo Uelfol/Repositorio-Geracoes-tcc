@@ -536,14 +536,14 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 
 | Campo | Informacao |
 | :--- | :--- |
-| **Arquivo(s)** | (Cenarios/Porto/Barba Rosa/Cabine_do_barba_rosa_FINAL_-_Cofre_aberto.png) |
+| **Arquivo(s)** | (Objetos/Bussola_do_capitao.png) |
 | **Modelo de IA** | *Flow Studio Nano Banana* |
 | **Prompt Utilizado** | *A detailed digital illustration of Captain Pinkbeard's open magical compass, centered and filling the entire frame against a plain white background. It is made of ornate, deeply engraved aged gold and has a highly stylized, Baroque appearance. The compass is shown from a direct top-down perspective to display both the exterior of the open lid and the intricate compass face, ensuring no part of the object is cropped out or touches the edge of the image.<br><br>The exterior of the heavy gold case is heavily adorned with intricate, hand-chiseled engravings. These carvings depict stylized roaring ocean waves, Kraken tentacles, intertwined mermaids with pink tails, pirate skulls featuring prominent mustaches, and ship wheels. The gold has a rich, textured patina with polished highlights on the raised details, contrasted by dark oxidation in the grooves. The open lid features a deeply sculpted relief of a full-rigged galleon with pink flags flying from the masts.<br><br>Inside the compass, the face is an absolute masterpiece of magical art under a protective glass dome. The needle is not a standard arrow but a stylized, glowing bone arrow that pulsates with an internal bordeaux-pink magical energy, pointing towards a swirling arcane vortex instead of standard cardinal directions. Standard cardinal letters (N, S, E, W) are replaced by glowing pink runic symbols and glyphs. The background of the dial appears to contain a miniature, swirling galaxy of pink cosmic dust and tiny, winking stars.<br><br>On the inner rim of the casing, near the hinge, the words "PROPERTY OF CAPTAIN PINKBEARD" are elegantly engraved in a cursive script with small pink ruby inlays for punctuation. The robust hinge mechanism is adorned with a single, large, glowing pink gemstone that emits a soft light across the compass face. The overall construction feels ancient, heavy, and extremely valuable.<br><br>The image exhibits a high-end digital painting aesthetic with a focus on detailed rendering and environment-driven fantasy illustration. The style is reminiscent of top-tier concept art or detailed video game inventory assets. Color hues are rich and luxurious, dominated by deep aged gold tones, warm brass accents, and vibrant, glowing pink magical effects, contrasted by deep bordeaux shadows.<br><br>Lighting is dramatic and directional, utilizing strong highlights and deep shadows (chiaroscuro) to give the Golden object a strong three-dimensional, sculpted quality and emphasize the varied textures of etched metal, polished gems, glowing magic, and smooth glass. The rendering quality is high, featuring sharp details on every tiny engraving and magical effect. Brushwork, though digitally applied, suggests traditional painting techniques with noticeable texture variations in the shadows and mid-tones.<br><br>The overall mood is magical, mysterious, opulent, and adventurous. The background is pure, seamless white, creating a powerful cutout effect that makes the detailed magical gold compass pop and suggests a reference or illustrative context. The composition is centered, balanced, and perfectly framed.* |
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1RpRFifGPE4nwWzQv0yybSS2VbFSqVS89/view?usp=drive_link) |
 
 *(Opcional - Visualizacao da Imagem)*
-![Arte Objeto: Bussola do barba rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba Rosa/Cabine_do_barba_rosa_FINAL_-_Cofre_aberto.png)
+![Arte Objeto: Bussola do barba rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Objetos/Bussola_do_capitao.png)
 
 ---
 
@@ -573,7 +573,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1gCLiAmjtqTMkF7R02CJzk-ja6cJYNikZ/view?usp=drive_link) |
 
 *(Opcional - Visualizacao da Imagem)*
-![Arte Sprite Sheet: Barba Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_barba_rosa_andando_-_Original.png)
+![Arte Sprite Sheet: Barba Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_barba_rosa_andando_-_sem_rum.png)
 
 ---
 
