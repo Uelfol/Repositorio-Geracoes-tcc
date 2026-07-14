@@ -82,14 +82,14 @@ Este arquivo cataloga as geracoes de IA listadas no episódio 1.
 
 | Campo | Informacao |
 | :--- | :--- |
-| **Arquivo(s)** | (Mapa do jogo/Mapa do jogo - Refinado (com nomes).jpeg) |
+| **Arquivo(s)** | (Mapa_do_jogo/Mapa_do_jogo_refinado_com_nomes.jpeg) |
 | **Modelo de IA** | *Flow Studio Nano Banana* |
 | **Prompt Utilizado** | *1. Top-Left: Porto Ressaca (Hangover Port): An irregularly shaped, large landmass dominating the northwest. It features a sandy coastline ("Praia") and a dense cluster of ramshackle, colorful pirate buildings representing the "Vila" and the main port area. Tiny icons represent specific landmarks: a small "Hotel" building, a stylized "Theater" mask icon, and a busy dock area. It looks lived-in and chaotic.<br><br>2. Top-Right: The Isle of Stories (Ilha das Histórias): A distinctive, crescent-moon-shaped island. It appears more manicured and expensive. A single, large, opulent mansion ("Mansão") sits at the center of the crescent curve. Near the southern tip of the crescent, a tiny, docked pink ship icon represents the "Pérola Rosa."<br><br>3. Bottom-Left: Green Wood Island (Ilha Madeira Verde): A large, oval-shaped island covered in dense, dark green jungle and bamboo forests. It looks wild and dangerous. Distinct landmarks poke out from the canopy: a shattered hull of a ship ("Naufrágio") on the northern shore, a glass-domed "Estufa" (Greenhouse) near the west, and crumbling stone "Ruínas" (Ruins) to the east.<br><br>4. Top-Center/Floating: The Cloud Kingdom (Reino das Nuvens): Floating magically above the sea between the islands is a massive, fluffy cumulus cloud formation. Resting atop the clouds is a whimsical, blocky giant's castle. A thick, twisting green beanstalk stem is visible hanging down from the cloud, suggesting a connection to the world below.<br><br>Decorative Map Elements: To complete the aesthetic, a decorative compass rose is painted in the corner, and a stylized sea monster tentacle breaks the water surface in an empty area. Dotted travel lines faintly connect the docks of Porto Ressaca to the other locations.* |
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1Nyci-XmwyNtc359h_Xq5g2ZMOQYvveSS/view?usp=drive_link) |
 
 *(Opcional - Visualizacao da Imagem)*
-![Arte Mapa geal do jogo](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_1/Mapa do jogo/Mapa do jogo - Refinado (com nomes).jpeg)
+![Arte Mapa geal do jogo](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_1/Mapa_do_jogo/Mapa_do_jogo_refinado_com_nomes.jpeg)
 
 ---
 
