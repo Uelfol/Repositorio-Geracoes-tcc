@@ -14,7 +14,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1myJuteZDhoOPIEwOsa6nLXRYE4kGyjaf/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite Sheet Maré Alta andando](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/mare_alta_andando-Photoroom.png)
 
 ---
@@ -55,7 +55,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1zK3Ivw0_Q3aBviYJVskr1taVsBhiQdcU/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite Sheet PinkBob bebendo rum](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_pinkbob_bebendo.png)
 
 ---
@@ -70,7 +70,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1BjSWs0EiyWIbnaoNcyTXIfj2Kw4-2Dlv/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite Sheet Maré Alta tomando rum](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/mare_alta_bebendo_rum.png)
 
 ---
@@ -85,7 +85,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/18nzgqH7PIEa1Aw6-tiVs-1tYZqgjO_x8/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Convés sujo de rum](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/conves_sujo_rum.png)
 
 ---
@@ -100,7 +100,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/19oG-cg0TR8osq-G3zk7q6scnvhQY-I1E/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Personagem Maruja da Maré Alta (Elizabeth)](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/Elizabeth.png)
 
 ---
@@ -115,7 +115,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/13WykZ1K_R0mkefUQ9PFzK3orOsAkVX3d/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite Sheet Elizabeth](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_Elizabeth_bebendo_rum.png)
 
 ---
@@ -130,7 +130,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1xRW74gJbD02tHZW923z-p_gngMH1nhNE/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Porto episódio II](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/porto_ep2_original.jpeg)
 
 ---
@@ -145,7 +145,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1SLzZ7u8uxCGHoWTvzEWQcmoV06VFU-0L/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Porto episódio II final](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Porto_ep2_final.png)
 
 ---
@@ -160,7 +160,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/14VUXglczmZTN-hQT8nQCe9v-jwq30f6r/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Convés Maré Alta de tarde na ilha](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Gemini_Generated_Image_1txexp1txexp1txe.png)
 
 ---
@@ -175,7 +175,7 @@ Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar o
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1YF3bBdJtpdaoXbXrzJlgElbt68_vwaTB/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Alterações no Cenário Conves Maré Alta de tarde na ilha](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/conves_fim_da_tarde.png)
 
 ---
@@ -227,7 +227,7 @@ The central entrance, including the archway above and the double door, is explic
 
 An ornate, corroded, faded brass plaque is mounted next to the door with once-elegant golden calligraphy, now faded and corroded, reading: **"MANSÃO DO JOÃO FEIJÃO"** or just **"MANSÃO"**, barely legible through dust and cobwebs. Ornate, dilapidated metal lamps are hung, unlit and covered in dust. Wild, thorny, unkempt vegetation grows through cracks in the aged wood and stone. A thick cobweb covers the faded sign. The floor of polished wood is warped and covered in dust and debris. A thorny vine wraps around the corroded ironwork. The overall mood is luxurious yet terrifying and decayed.) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Mansão do João Feijão](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Mansão/Porta_Mansao.png)
 
 ---
@@ -242,7 +242,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1FuD_chjKZYyk6PfBay7MJUyLMyugW4D2/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Mansão do João Feijão](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Mansão/Porta_Mansao_original.png)
 
 ---
@@ -257,7 +257,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1kVZ9FA_A7jN1taTpJ94yg6ZT42JsRRAV/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Mansão do João Feijão](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Mansão/Porta_Mansao_Final.png)
 
 ---
@@ -272,7 +272,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1eu0tWOU7_kucKSMeqZbNV4TOGVB_Jtje/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Saguão Mansão do João Feijão](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Mansão/Saguao/saguão_da_mansao.png)
 
 ---
@@ -287,7 +287,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1_tOsKyBfw6tmRrf9KpZ5bcV15pm8leZT/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Objeto: Mesa do Saguão da mansão do João Feijão](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Mansão/Saguao/mesa_saguao.jpeg)
 
 ---
@@ -302,7 +302,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1CmLgOjM7qF5O2UANRVdj8iDEqSlOt_rL/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte NPC: Shirley (Recepcionista de João Feijão)](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/shirley_og.jpeg)
 
 ---
@@ -317,7 +317,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1V_C6H37I_mKrG5THXstMhPALZs6_OGSk/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte NPC: Shirley (Recepcionista de João Feijão)](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/shirley_tablet.png)
 
 ---
@@ -332,7 +332,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1PtHeoKM4Kw7bIn40qJY7HepSKwwufC1t/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite sheet: NPC Shirley](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_shirley.jpeg)
 
 ---
@@ -347,7 +347,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1RNC9QABQiToMXhTAOFviSWPX-febJPZ1/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite sheet: NPC Shirley](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_shirley_fix.png)
 
 ---
@@ -362,7 +362,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/19hkzDcvo-IUC5TE3moLZpruh9dibEemx/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Convés Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/\Porto\Barba_Rosa\Conves\conves_barba_rosa_og.jpeg)
 
 ---
@@ -377,7 +377,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1rSYVTZ1PsTTwxTdVt260j1b1ZFgpducs/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Convés Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba_Rosa/Conves/conves_barba_rosa_primeira_ed.jpeg)
 
 ---
@@ -392,7 +392,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/11IB6yiTgnWO3BEsl-nkkxHdp3ougX4k-/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Convés Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba_Rosa/Conves/conves_barba_rosa.png)
 
 ---
@@ -407,7 +407,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1MZCNigMjNU_TKSHwAukzAYUX2wDtQdj6/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Alojamento Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba_Rosa/Alojamento/alojamento_perola_rosa_og.jpeg)
 
 ---
@@ -422,7 +422,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1lk5b9mi3oLjoy83COv93hmdpmn-ENE64/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Alojamento Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba_Rosa/Alojamento/alojamento_perola_rosa_final.png)
 
 ---
@@ -437,7 +437,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1xn9Z6ZfPtRccRvgy76Is4--olN0Wi2d9/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Cabine Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba_Rosa/Cabine_do_barba_rosa_original.png)
 
 ---
@@ -452,7 +452,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/19sc4Gp3Tb_oFRAEAF-wqkvLdk_JqRABJ/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Cabine Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba_Rosa/Cabine_do_barba_rosa_FINAL_-_Cofre_aberto.png)
 
 ---
@@ -467,7 +467,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1ENxYJYF1TVqK7DlWqMYlPoGogTbHw4c3/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Cenário: Cabine Pérola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Cenarios/Porto/Barba_Rosa/Cabine_do_barba_rosa_FINAL_-_Cofre_fechado.png)
 
 ---
@@ -482,7 +482,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1INNwO8vjc-OcTJx6Kd6j-TC5VbcSlp77/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte NPC: Seu Zé](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/Seu_ze.png)
 
 ---
@@ -497,7 +497,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1ZUHgLSYYisIE__aJ96bnEEQ5N76UGUx8/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite sheet: Npc Seu Zé](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/Sprite_Sheet_Seu_Ze_-_Final.png)
 
 ---
@@ -512,7 +512,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1YOvxUDI8P6S0KqQ-rCJfAKh1KA6PEcEb/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Objeto: Pote de especiarias](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Objetos/Pote_especiarias.png)
 
 ---
@@ -527,7 +527,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/12yZEWF1_81CnuQt0wShkqB-t9jhGYwyb/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Objeto: Mascara do Himalaia](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Objetos/Mascara_joao.png)
 
 ---
@@ -542,7 +542,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1RpRFifGPE4nwWzQv0yybSS2VbFSqVS89/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Objeto: Bussola do barba rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Objetos/Bussola_do_capitao.png)
 
 ---
@@ -557,7 +557,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1PbcPmupgw7JFeC4sEkJaaGOT7dB0RB-O/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite Sheet: Barba Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_barba_rosa_andando_-_Original.png)
 
 ---
@@ -572,7 +572,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/1gCLiAmjtqTMkF7R02CJzk-ja6cJYNikZ/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Sprite Sheet: Barba Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Personagens/sprite_sheet_barba_rosa_andando_-_sem_rum.png)
 
 ---
@@ -587,7 +587,7 @@ An ornate, corroded, faded brass plaque is mounted next to the door with once-el
 | **Observacao** | ** |
 | **Link Original** | [Acessar no Drive](https://drive.google.com/file/d/10yHrq0mKi5IRxxjn23jcBL6jLkjm2D75/view?usp=drive_link) |
 
-*(Opcional - Visualizacao da Imagem)*
+
 ![Arte Objeto: Molho de chaves do Perola Rosa](/04_Resultados_Etapa_4_Primeiro_Estudo_de_caso_PinkBob/Episodio_2/Objetos/chaves_cabine_perola_rosa_OG.png)
 
 ---
