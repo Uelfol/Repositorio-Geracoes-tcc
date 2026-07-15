@@ -5,9 +5,9 @@ Nesta pasta, você encontra os vídeos de gameplay dos três jogos desenvolvidos
 ## 🎮 Instruções para Baixar e Jogar
 
 Para jogar qualquer um dos títulos, siga estas instruções passo a passo:
-1. Clique no link do arquivo `.zip` correspondente abaixo para baixá-lo.
+1. Clique no link do arquivo `.zip` correspondente abaixo para baixá-lo. Você será redirecionado para a página do zip no github, nesta página clique no botão circulado na imagem abaixo para baixar o zip. ![alt text](image.png)
 2. Descompacte o arquivo (extraia o `.zip`) no local de sua preferência no seu computador.
-3. Abra a pasta do jogo recém-descompactada e execute o arquivo `.exe`.
+3. Abra a pasta do jogo recém-descompactada e execute o arquivo `.exe` com o nome do jogo.
 4. **Modo Tela Cheia:** Todos os jogos foram pensados e projetados para serem jogados com a tela cheia. Se, por acaso, o jogo abrir em modo janela, pressione as teclas `Ctrl + Enter` para entrar em tela cheia.
 5. **Aviso de Segurança:** É possível que o Windows exiba um alerta de segurança informando que o software não é seguro ou é de fornecedor desconhecido. Isso acontece apenas porque os jogos não foram assinados com um assinador digital (certificado pago). Pode ignorar essa mensagem com tranquilidade, clicando em "Mais informações" e em "Executar assim mesmo", para abrir o jogo normalmente.
 
