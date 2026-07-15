@@ -1,6 +1,25 @@
-﻿# Catalogo de Geracoes - Hacking Survivors
+# Estudo de Caso 2: Hacking Survivors
 
-Este arquivo cataloga as geracoes de IA listadas na planilha. Voce pode editar os campos de **Arquivo(s)** e visualizar as imagens quando as adicionar na pasta.
+Esta pasta contém todos os assets e testes gerados com Inteligência Artificial para o segundo estudo de caso do TCC: o jogo roguelike **"Hacking Survivors"**.
+
+## 📂 Organização dos Arquivos
+
+Neste estudo de caso, a estrutura de pastas difere um pouco da organização do jogo anterior. Os assets estão organizados da seguinte forma:
+
+- **Assets_Fase_1** a **Assets_Fase_4**: Subpastas que reúnem todos os cenários, NPCs e sprites de inimigos pertencentes àquela fase específica do jogo.
+- **Cutscenes**: Contém as imagens (em estilo quadro-a-quadro/HQ) que contam a história durante o jogo (ex: abertura, transições entre fases e encerramento).
+- **Sprite_de_armas**: Guarda os ícones e sprites das armas, hacks e melhorias que o jogador adquire durante a gameplay.
+- **Arquivos_ideacao**: Arquivos gerados durante a fase de ideação, como protótipo desenhado, GDD de uma página, GDD por fases gerado por IA, refinamento da ideia e Story Spine.
+
+## 📖 Catálogo de Gerações
+
+Abaixo, você encontrará o catálogo completo detalhando **todas as gerações** listadas para este projeto.  
+Para cada geração, você poderá consultar:
+1. O preview do arquivo gerado e seu local exato (`Arquivo(s)`) dentro das pastas listadas acima.
+2. O modelo de IA responsável pela geração.
+3. O prompt exato enviado.
+4. Resultados textuais ou links para download (para músicas, etc.).
+5. Observações relevantes de design.
 
 ---
 
