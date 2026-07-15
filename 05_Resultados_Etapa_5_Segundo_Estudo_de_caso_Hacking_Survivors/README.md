@@ -9,7 +9,7 @@ Neste estudo de caso, a estrutura de pastas difere um pouco da organização do 
 - **Assets_Fase_1** a **Assets_Fase_4**: Subpastas que reúnem todos os cenários, NPCs e sprites de inimigos pertencentes àquela fase específica do jogo.
 - **Cutscenes**: Contém as imagens (em estilo quadro-a-quadro/HQ) que contam a história durante o jogo (ex: abertura, transições entre fases e encerramento).
 - **Sprite_de_armas**: Guarda os ícones e sprites das armas, hacks e melhorias que o jogador adquire durante a gameplay.
-- **Arquivos_ideacao**: Arquivos gerados durante a fase de ideação, como protótipo desenhado, GDD de uma página, GDD por fases gerado por IA, refinamento da ideia e Story Spine.
+- **Arquivos_ideacao**: Arquivos gerados durante a fase de ideação, como protótipo desenhado, GDD de uma página, GDD por fases gerado por IA, árvore de ideias, refinamento da ideia e Story Spine.
 
 ## 📖 Catálogo de Gerações
 
