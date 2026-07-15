@@ -5,7 +5,7 @@ Este diretório documenta a pesquisa exploratória e os testes realizados com di
 ## 📊 Avaliação e Pontuações (Importante)
 
 Ao contrário dos testes de áudio, os vídeos gerados nesta etapa passaram por uma avaliação quantitativa rigorosa com diversas métricas (Resolução, Qualidade Visual, Permanência de Objetos, Estabilidade Temporal, Utilidade, etc.). 
-**Os resultados detalhados com as notas de cada IA podem ser encontrados na pasta `Pontuacoes/`, no arquivo `Compilado de pontuação dos testes de vídeo.xlsx`.** Os arquivos `.csv` na raiz desta pasta contêm as médias extraídas destas avaliações.
+**Os resultados detalhados com as notas de cada IA podem ser encontrados na pasta `Pontuacoes/`, no arquivo `Compilado de pontuação dos testes de vídeo.xlsx`.**
 
 ---
 
