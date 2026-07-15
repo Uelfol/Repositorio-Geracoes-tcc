@@ -1,0 +1,69 @@
+
+# Story Spine: *Pafúncio Vs Desenhos*
+
+
+## 1. Resumo das Alterações
+
+| Elemento | Original no GDD | Modificação e Justificativa |
+|---|---|---|
+| **A Borracha Falante** | Mencionada brevemente como guia | Elevada a personagem principal de suporte, com nome próprio: **Apagadinha**. Ela é a única criação que Pafúncio chegou a terminar — por isso não está revoltada, e sim o aguardava. Isso cria um vínculo emocional imediato e justifica a mecânica da borracha dentro da narrativa. |
+| **Motivação dos Inimigos** | "Revoltados com o abandono" (genérico) | Cada seção do caderno tem um **Chefe Inacabado** com personalidade única ligada ao seu tipo de traço (ex: o Cachorro Rabisco — agressivo e impulsivo; a Mancha de Borrão — passiva e expansiva). Isso enriquece o combate cromático e dá propósito dramático a cada fase. |
+| **Entrada no caderno** | "Acorda de pantufas dentro do caderno" (abrupta) | Adicionado um **ritual de transição**: Pafúncio encontra o caderno velho enquanto arruma a casa, e ao abri-lo é sugado por uma espiral de tinta. Mantém a lógica surreal mas dá ao jogador um momento de *antes/depois* para criar empatia. |
+| **Condição de saída** | Encontrar "a saída" | A saída é a **última página em branco do caderno** — que Pafúncio precisa preencher com um desenho livre para criar a porta de volta ao mundo real. Isso amarra a resolução às mecânicas de colorização e desenho. |
+
+---
+
+## 2. Story Spine
+
+**Era uma vez...**
+Pafúncio, um homem de meia-idade de coração gentil, que de jovem enchia cadernos inteiros com desenhos coloridos e cheios de vida. Hoje, vestido sempre com suas pantufas surradas e com um estojo de artes que não abria há anos guardado numa gaveta, ele levava uma vida cinza de adulto ocupado — sem tempo, sem cor, sem arte.
+
+**Todos os dias...**
+Pafúncio acordava, tomava seu café sem graça e ia cumprir suas obrigações. O antigo caderno de desenhos de colorir jazia esquecido numa caixa no alto do armário, suas páginas cheias de rascunhos a nanquim e esboços inacabados, esperando por cores que nunca vieram.
+
+**Mas, um dia...**
+Ao arrumar a casa, Pafúncio encontra o caderno perdido. Ao abri-lo distraidamente, uma espiral de tinta negra o suga para dentro das páginas. Ele acorda deitado no chão de papel Canson, ainda de pantufas, com o estojo de artes intacto na mão — como se o caderno soubesse o que trazer. O mundo ao redor é branco, silencioso, e cheio de formas inacabadas que respiram.
+
+**Por causa disso...**
+Uma pequena borracha cor-de-rosa salta em sua direção — é **Apagadinha**, o único personagem que Pafúncio chegou a terminar de desenhar há anos atrás. Ela o reconhece. Com urgência, explica: os rascunhos abandonados ganharam vida e estão furiosos. Manchados de mágoa, eles vêm em direção a Pafúncio para marcá-lo com tinta — e se ele acumular manchas demais, se tornará um borrão irreconhecível, preso para sempre. A única saída é a última página em branco, mas ela está ao fim do caderno — separada por várias seções de páginas revoltadas.
+
+**Por causa disso...**
+Pafúncio precisa atravessar a **Seção dos Rascunhos a Lápis** — o capítulo mais básico do caderno, onde criaturas de grafite fraco e traços trêmulos patrulham plataformas de papel pautado. Ele redescobre o lápis do estojo e aprende a **desenhar plataformas** para transpor os buracos entre as folhas, enquanto tenta não ser atingido pelos inimigos que o perseguem. Apagadinha o ensina: cada criatura tem um traço — e pode ser apagada temporariamente, mas só a cor certa as transforma de vez e pacifica sua raiva.
+
+**Por causa disso...**
+Avançando, ele chega à **Seção das Manchas e Borrões** — páginas encharcadas de tinta derramada onde abismos de borrão se expandem pelo chão e paredes de rabisco bloqueiam o caminho. Aqui Pafúncio aprende a usar a borracha com precisão, apagando os perigos passivos do cenário enquanto esquiva dos inimigos ativos. Ele também descobre os frascos de alvejante espalhados pelo cenário — e começa a entender que cuidar de si mesmo faz parte da jornada.
+
+**Por causa disso...**
+Ele adentra a **Seção das Cores** — a mais intensa do caderno. Os inimigos aqui são rascunhos coloridos pela metade, cada um exigindo a cor específica correta para ser completado e pacificado. Guache, giz, pastel e pincel se tornam armas táticas. Pafúncio começa a reconhecer nas criaturas os desenhos que fez com carinho anos atrás — e a culpa o pesa mais do que as manchas de tinta.
+
+**Por causa disso...**
+No coração do caderno, Pafúncio encontra o **Chefe Final: O Grande Borrão** — uma fusão de todas as páginas mais abandonadas, um monstro de tinta e mágoa que absorve e apaga tudo ao redor. Ele não tem uma cor certa. Não tem traço definido. É a soma de tudo que ficou pela metade. Apagadinha percebe: para vencê-lo, Pafúncio não pode apenas apagar ou pintar — ele precisa **desenhar ativamente sobre ele**, sobrescrevendo o abandono com intenção e cor, num combate que usa todas as ferramentas do estojo ao mesmo tempo.
+
+**Até que finalmente...**
+Pafúncio completa o Grande Borrão — e ao fazê-lo, o monstro não morre: ele se transforma na **ilustração mais bonita do caderno**, uma criatura vibrante e em paz. As demais páginas reagem em cadeia: a colorização progressiva que vinha acontecendo desde o início do jogo culmina numa onda de cor que percorre o caderno inteiro do início ao fim. Pafúncio chega à última página — a que estava em branco. Com o lápis e as tintas restantes, ele desenha livremente pela primeira vez em anos. A página se ilumina. Uma porta de papel se abre.
+
+**E desde então...**
+Pafúncio volta ao mundo real — mas diferente. O caderno agora está completo, colorido, vivo. Ele o coloca na prateleira, não mais na caixa. Seu estojo está sobre a mesa. Nas últimas cenas, vemos Pafúncio abrindo um caderno **novo** e começando a desenhar — desta vez, sem intenção de parar.
+
+> *Apagadinha aparece numa última quadrinho desenhada à mão na contracapa: ela acena.*
+
+---
+
+## 3. Conexão com o Gameplay
+
+Cada ponto **"Por causa disso"** foi mapeado diretamente ao Core Loop do GDD:
+
+**Seção dos Rascunhos a Lápis → Introdução ao Loop Principal**
+O jogador aprende as três camadas fundamentais: *desenhar plataformas* com grafite para navegar, *apagar* ameaças passivas com a borracha, e *identificar o traço* do inimigo antes de agir. É o tutorial disfarçado de narrativa.
+
+**Seção das Manchas e Borrões → Introdução à "Vida Têxtil"**
+Os borrões e rabiscos do cenário ensinam o jogador a gerenciar recursos (alvejante = restauração de vida) e a tratar o ambiente como puzzle ativo — não apenas os inimigos. Conecta-se diretamente ao sistema passivo de colorização do background.
+
+**Seção das Cores → Combate Cromático Pleno**
+É aqui que o Sistema de Combate Cromático se desdobra completamente. O jogador precisa ler o tipo de traço do inimigo (nanquim, canetinha, desbotado) e selecionar a ferramenta e cor correspondente. A pressão emocional da narrativa (reconhecer suas próprias criações) amplifica a tensão do puzzle.
+
+**O Grande Borrão → Clímax Sistêmico**
+O chefe final é um teste de maestria que exige o uso simultâneo de todas as ferramentas. Narrativamente justificado como a soma do abandono, ele força o jogador a aplicar tudo que aprendeu — sem muleta de uma única estratégia — conectando o pico dramático ao pico de dificuldade mecânica.
+
+**A Última Página → Condição de Vitória Ressignificada**
+A "margem direita da página" mencionada no GDD ganha peso emocional: não é uma linha arbitrária, mas um ato criativo consciente. O desenho livre na última página transforma a condição de vitória em uma declaração temática — a arte não é um destino, é uma prática.
