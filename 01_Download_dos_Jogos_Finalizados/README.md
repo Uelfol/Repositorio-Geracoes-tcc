@@ -14,13 +14,19 @@ Para jogar qualquer um dos títulos, siga estas instruções passo a passo:
 ### Arquivos do Jogo (.zip):
 - 🏴‍☠️ [PinkBob J e o Enigma do Rum](PinkBob_J_e_o_Enigma_do_Rum.zip)
 - 💻 [Hacking Survivors](Hacking_Survivors.zip)
-- ✏️ [Pafúncio vs Desenhos] *(Placeholder - Arquivo .zip faltando na pasta)*
+- ✏️ [Pafúncio vs Desenhos](Pafuncio_Vs_Desenhos.zip)
 
 ---
 
 ## 🎥 Vídeos de Gameplay
 
-Aqui estão listados os registros em vídeo do gameplay de cada um dos três jogos:
-- 🏴‍☠️ [Gameplay PinkBob J e o Enigma do Rum](Gameplay_PinkBob.mkv)
-- 💻 [Gameplay Hacking Survivors] *(Placeholder - Vídeo de gameplay faltando na pasta)*
-- ✏️ [Gameplay Pafúncio vs Desenhos] *(Placeholder - Vídeo de gameplay faltando na pasta)*
+Aqui estão listados os registros em vídeo do gameplay demonstração de cada um dos três jogos. Clique nas imagens abaixo para assistir diretamente no YouTube:
+
+### 🏴‍☠️ PinkBob J. e o Enigma do Rum
+[![Gameplay PinkBob](https://img.youtube.com/vi/mKujkPGN3Cs/0.jpg)](https://youtu.be/mKujkPGN3Cs)
+
+### 💻 Hacking Survivors
+[![Gameplay Hacking Survivors](https://img.youtube.com/vi/AjmPALl8Dm4/0.jpg)](https://youtu.be/AjmPALl8Dm4)
+
+### ✏️ Pafúncio Vs Desenhos
+[![Gameplay Pafúncio Vs Desenhos](https://img.youtube.com/vi/DLrqLbjKBno/0.jpg)](https://youtu.be/DLrqLbjKBno)
