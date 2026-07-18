@@ -46,9 +46,9 @@ Abaixo está a explicação completa de como os arquivos estão distribuídos e 
 
 ### [01. Download dos Jogos Finalizados](./01_Download_dos_Jogos_Finalizados/)
 Este diretório foca no produto final e tangível da pesquisa. Aqui você encontrará:
-- **Vídeos de Gameplay:** Registros em vídeo (formato `.mkv`) mostrando o funcionamento, a integração dos assets gerados por IA e a gameplay dos 3 jogos desenvolvidos.
+- **Vídeos de Gameplay:** Links diretos (incorporados via YouTube) demonstrando de maneira resumida os jogos, a integração dos assets gerados por IA e a gameplay dos 3 jogos desenvolvidos.
 - **Arquivos Compactados (.zip):** As builds originais e jogáveis de cada um dos jogos para a plataforma Windows.
-- **Instruções de Execução:** O arquivo de documentação interna detalha os passos para baixar, extrair, executar em tela cheia e como lidar com os eventuais falsos positivos do antivírus do Windows SmartScreen devido à falta de assinador digital.
+- **Instruções de Execução:** Instrução dos passos para baixar, extrair, executar em tela cheia e como lidar com os eventuais falsos positivos do antivírus do Windows SmartScreen devido à falta de assinador digital.
 
 ### [02. Resultados da Pesquisa Exploratória de Ferramentas (Etapa 2)](./02_Resultados_Etapa_2_Pesquisa_Exploratoria_Ferramentas/)
 Antes de desenvolver os jogos de fato, foi necessário testar *qual* modelo de IA era o melhor e mais adaptável para cada função específica no desenvolvimento de jogos. Esta pasta é o núcleo dessa avaliação quantitativa e qualitativa, contendo:
