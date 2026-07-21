@@ -8,7 +8,10 @@ Diferente dos outros jogos, os assets deste estudo de caso são predominantement
 
 - **Arquivos_ideacao**: Contém documentos, GDDs, rascunhos da árvore de ideias, e a estrutura narrativa (`Story_Spine.txt`) do projeto.
 - **Cenário**: Imagens usadas para preencher o fundo da fase, simulando páginas de caderno.
+- **musicas**: As músicas usadas como trilha sonora do jogo.
+- **Personagens**: As artes geradas para os personagens do jogo, incluindo jogador e inimigos.
 - **Tiles_mundo_1**: Reúne todos os sprites e blocos básicos (tiles de chão, tijolos, interrogação, espinhos, etc.) usados na montagem do primeiro mundo.
+- **UI**: Elementos de interface do jogo que foram gerados, como por exemplo icones de vida e telas de menus.
 
 ## 📖 Catálogo de Gerações
 
